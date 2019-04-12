@@ -43,6 +43,6 @@
     }
   },
   "replace": {
-    "goetas-webservices/xsd2php-runtime": "self.version"
+    "goetas-webservices/xsd2php-runtime": "v0.2.*"
   }
 }
